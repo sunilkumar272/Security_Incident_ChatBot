@@ -1,0 +1,76 @@
+Threat Name,Priority,Dialogflow Training Text
+1) McAfee AV,Low Priority, I noticed a McAfee DAT update error message
+,,There's a recurring notification about McAfee ENS not being up to date
+,,My McAfee Agent is having trouble installing updates
+,,I received a non-urgent message about a potential malware attack on my PC. I'll address it when I have time.
+,,There's a McAfee DAT update issue
+,,My system occasionally alerts me about McAfee ENS updates
+,,
+,Medium Priority,The McAfee DAT update has failed a few times
+,,McAfee ENS not updating is becoming a recurrent issue
+,,My McAfee Agent is struggling to install updates
+,,I received a message indicating a possible malware attack on my PC
+,,The McAfee DAT update error has persisted
+,, The McAfee ENS update notifications are becoming more frequent
+,,
+,High Priority,Urgent! My McAfee DAT update keeps failing
+,,Critical issue: McAfee ENS is consistently outdated
+,, McAfee Agent is failing to install updates
+,,My PC is under a malware attack
+,,Immediate action needed: McAfee DAT update errors are preventing me from working securely.
+,,High-priority concern: Frequent McAfee ENS update issues are jeopardizing my system's security. Please address this urgently.
+,,These sentences can be used to create training data for your Dialogflow chatbot to handle McAfee AV endpoint security-related queries at different priority levels.
+,,
+2) Defender AV,Low Priority,I noticed a Microsoft Defender DAT update error message
+,,There's a recurring notification about Microsoft Defender not being up to date
+,,Defender appears to be outdated and is struggling with updates
+,,I received a message about a potential malware attack on my PC
+,,The Microsoft Defender DAT update issue is there
+,,Microsoft Defender occasionally alerts me about updates
+,,
+,Medium Priority,The Microsoft Defender DAT update has failed a few times
+,,Microsoft Defender is consistently not updating
+,,My Microsoft Defender is struggling to install updates
+,,I received a message about a possible malware attack on my PC
+,,The Microsoft Defender DAT update errors have persisted
+,,The Microsoft Defender update notifications are becoming more frequent
+,,
+,High Priority,Urgent! My Microsoft Defender DAT update has failed
+,,Critical issue: Microsoft Defender is consistently outdated
+,,Microsoft Defender Agent is failing to install updates
+,,My PC is under a malware attack
+,,Immediate action needed: Microsoft Defender DAT update errors are preventing me from working securely.
+,,High-priority concern: Frequent Microsoft Defender update issues are jeopardizing my system's security. Please address this urgently
+,,
+3) Symantec DLP,Low Priority,I noticed a message about a user being blocked from printing
+,,There's a recurring notification that users are not allowed to insert USB devices
+,,My system displayed a message user blocked saying I'm not authorized to download a file
+,,I received a message about potential data corruption
+,,The message about a blocked user hasn't affected my daily tasks significantly.
+,,The recurring notification about USB device restrictions is there
+,,
+,Medium Priority,A user is repeatedly getting blocked from printing
+,,Users not being allowed to insert USB devices is becoming a frequent issue that we should address soon.
+,,My system continues to deny authorization to download files
+,,I received a message about potential data corruption on my PC
+,,The issue of a blocked user is persistent and might disrupt their tasks.
+,,The recurring USB device restrictions are becoming more frequent
+,,
+,High Priority,Urgent! A user is blocked from printing
+,,Critical issue: Users are consistently denied USB device access
+,,My system repeatedly denies authorization to download files
+,,My PC is under a potential data corruption threat
+,,Immediate action needed: A blocked user is unable to work. We must address this urgently.
+,,High-priority concern: Frequent USB device restrictions are impacting our work. Please address this as a top priority.
+,,
+4) Bitlocker,High Priority,"High Priority, your password has been expired."
+,,Critical issue: I can't log in
+,,Immediate attention required: My password has expired
+,,My login has been blocked due to an expired password. Please provide the BitLocker key right away.
+,,High-priority concern: I've been locked out of my system due to an expired password. I need the BitLocker key.
+,,Password expired
+,,My password has expired
+,,Urgent assistance needed: I can't access my system because of an expired password. I require the BitLocker key now.
+,,Critical situation: My login is blocked
+,,Immediate action needed: I can't log in due to an expired password. Please provide the BitLocker key urgently to regain access.
+,,Urgent! Your password has expired
