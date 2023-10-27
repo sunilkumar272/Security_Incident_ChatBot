@@ -20,8 +20,12 @@ Run "ngrok http 8000" for https tunneling
 
 ## Results.
 Sample Dialogflow chat response provided by the ChatBot.
-![image](https://github.com/sunilkumar272/Security_Incident_ChatBot/assets/41378148/ece14c74-5c67-4e81-95fd-dfb6a2e9d8c5)
-![image](https://github.com/sunilkumar272/Security_Incident_ChatBot/assets/41378148/ebdbd82c-d030-4623-90a8-3d0dc96ca824)
+![image](https://github.com/sunilkumar272/Security_Incident_ChatBot/assets/41378148/14f29c3a-b449-492d-b0f4-7ab5f8137b0e) ![image](https://github.com/sunilkumar272/Security_Incident_ChatBot/assets/41378148/9e5c5934-ecf4-4061-8057-b93440c0296e) ![image] ![image](https://github.com/sunilkumar272/Security_Incident_ChatBot/assets/41378148/0178b0e0-57aa-4571-921d-05d213fd52db) ![image](https://github.com/sunilkumar272/Security_Incident_ChatBot/assets/41378148/e95c12b6-1ec3-4761-ab75-de6c8794dbd4)
+
+
+
+
+
 
 
 
